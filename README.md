@@ -13,9 +13,9 @@
 
 ## YouTube Training Playlist  
 
->The following list of videos I watched several times, making my own notes directly from their content, questions and explanations for the CISSP 2024 exam.
+>The following list of videos I watched several times, making my own notes directly from their content, questions and explanations for the ISC2 CISSP 2024 exam.
 
-![2024 CISSP List of Videos](https://youtube.com/playlist?list=PLsDxQTEdg_YlLfX33OjFG4yPRt2674gA2&si=bhnOFMPK8MyyZvs9)  
+[2024 CISSP List of Videos](https://youtube.com/playlist?list=PLsDxQTEdg_YlLfX33OjFG4yPRt2674gA2&si=bhnOFMPK8MyyZvs9)  
 
 ## CISSP Questions Key Phrases  
 
