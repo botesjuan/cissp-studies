@@ -9,13 +9,23 @@
 * [CISSP Domain 5 Identity and Access Management](/CISSP%20Domain%205%20Identity%20and%20Access%20Management.png)
 * [CISSP Domain 6 Assessment & Testing](/CISSP%20Domain%206%20Assessment%20&%20Testing.png)
 * [CISSP Domain 7 Operations](/CISSP%20Domain%207%20Operations.png)
-* [CISSP Domain 8 Software Development Security](/CISSP%20Domain%208%20Software%20Development%20Security.png)
+* [CISSP Domain 8 Software Development Security](/CISSP%20Domain%208%20Software%20Development%20Security.png)  
+
+## YouTube Training Playlist  
+
+>The following list of videos I watched several times, making my own notes directly from their content, questions and explanations for the CISSP 2024 exam.
+
+![2024 CISSP List of Videos](https://youtube.com/playlist?list=PLsDxQTEdg_YlLfX33OjFG4yPRt2674gA2&si=bhnOFMPK8MyyZvs9)  
 
 ## CISSP Questions Key Phrases  
 
-When **analyzing** CISSP questions, several key phrases and techniques are used to create ambiguity and challenge the test-taker.  
-These elements are designed to test your critical thinking and ability to apply concepts rather than just recall information.  
-Here’s a list of key phrases and techniques:
+>CISSP questions often involve **distractors** and complexity to challenge the understanding of the nuances in security principles.  
+>The key is to read questions carefully, focus on what is being asked, and consider all answer choices critically, 
+>looking for the one that aligns most closely with the best practices or principles within the domain of the question.  
+
+>When **analyzing** CISSP questions, several key phrases and techniques are used to create ambiguity and challenge the test-taker.  
+>These elements are designed to test your critical thinking and ability to apply concepts rather than just recall information.  
+>Here’s a list of key phrases and techniques:  
 
 ### 1. **"Best," "Most Correct," or "Most Comprehensive"**  
    - **Purpose:** Forces you to prioritize or evaluate multiple correct answers.
@@ -107,9 +117,47 @@ Here’s a list of key phrases and techniques:
      - “Which provides insight into risk tolerance?”
    - **Challenge:** Forces you to think about indirect vs. direct impacts of controls or assessments.
 
-### Summary:  
+## AI / LLM / ChatGPT  
 
-CISSP questions often involve **distractors** and complexity to challenge your understanding of the nuances in security principles.  
-The key is to read questions carefully, focus on what is being asked, and consider all answer choices critically, 
-looking for the one that aligns most closely with the best practices or principles within the domain of the question.  
+>During my CISSP studies I used paid for subscription of ChatGPT to play the role of my study partner.
+>I provided the following type of prompts to the model to aid in my studies and test my knowledge and skills:
+
+```
+Assume the role of CISSP study partner that asks me questions, based on the updated study notes attached provided. Ask me questions in the form of multiple choice, with the options all answer options very similar, almost all correct.
+Make the questions in the form that a manager in the security department will select the one from the multiple answers that are more correct then the other choices.
+Ask me one question and give the multiple choices answers, but do not move to the next question until I provide an answer. If I answer incorrectly then, give me an explanation of the valid answer when I answer incorrectly.
+Then only pose a new question after my answer provided from the same CISSP domain until I get 3 correct from one of the 8 domains based on the CISSP domain sections.
+Use the follow list of words in building the questions to make it more difficult to determine the most correct answers from choices:
+
+Goal
+Primary goal
+endpoint
+Most
+Mostly
+Most important
+Most appropriate
+Most critical
+Most effective
+Unlikely
+Incorrect
+Not typically
+not commonly
+not normally
+Not one
+not true
+not an essential process
+not an effective
+not a consideration
+not a common step
+Least 
+LEAST likely
+is least likely
+avoid 
+advantage 
+shouldn’t
+```  
+
+>In the sample ChatGPT prompt screenshot below, I provided and uploaded image of CISSP drawing lifecycle and asked to give scenarion question:
+
+[chatgpt-sample-question.PNG](/chatgpt-sample-question.PNG)  
 
