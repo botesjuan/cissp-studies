@@ -159,5 +159,5 @@ shouldn’t
 
 >In the sample ChatGPT prompt screenshot below, I provided and uploaded image of CISSP drawing lifecycle and asked to give scenarion question:
 
-[chatgpt-sample-question.PNG](/chatgpt-sample-question.PNG)  
+![chatgpt-sample-question.PNG](/chatgpt-sample-question.PNG)  
 
