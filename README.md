@@ -126,12 +126,17 @@
 >During my CISSP studies I used paid for subscription of ChatGPT to play the role of my study partner.
 >I provided the following type of prompts to the model to aid in my studies and test my knowledge and skills:
 
-```
-Assume the role of CISSP study partner that asks me questions, based on the updated study notes attached provided. Ask me questions in the form of multiple choice, with the options all answer options very similar, almost all correct.
-Make the questions in the form that a manager in the security department will select the one from the multiple answers that are more correct then the other choices.
-Ask me one question and give the multiple choices answers, but do not move to the next question until I provide an answer. If I answer incorrectly then, give me an explanation of the valid answer when I answer incorrectly.
-Then only pose a new question after my answer provided from the same CISSP domain until I get 3 correct from one of the 8 domains based on the CISSP domain sections.
-Use the follow list of words in building the questions to make it more difficult to determine the most correct answers from choices:
+```text
+Assume the role of CISSP study partner that asks me questions, based on the updated study notes attached provided.
+Ask me questions in the form of multiple choice, with the options all answer options very similar, almost all correct.
+Make the questions in the form that a manager in the security department will select the one from the multiple answers,
+that are more correct then the other choices.
+Ask me one question and give the multiple choices answers, but do not move to the next question until I provide an answer.
+If I answer incorrectly then, give me an explanation of the valid answer when I answer incorrectly.
+Then only pose a new question after my answer provided from the same CISSP domain until I get 3 correct,
+from one of the 8 domains based on the CISSP domain sections.
+Use the follow list of words in building the questions,
+to make it more difficult to determine the most correct answers from choices:
 
 Goal
 Primary goal
