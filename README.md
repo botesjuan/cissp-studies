@@ -4,6 +4,22 @@
 
 ----  
 
+## CISSP Stuydy Approach  
+
+1. Watch youtube videos and make notes, see p[laylist later in section below.  
+2. Do the official study questions 4th edition and official study guide 10th edition questions.  
+3. Use chatgpt latest version paid subscription as study buddy to upload documents, images and ask questions to provide detailed explanation of answers wrong and correct.  
+4. Make memory mnemonics stories whiteboards drawings of each CISSP security domain, see mined below.  
+5. Update notes more redoing questions and answers repeatedly.  
+6. Repeat all above steps and rewatching the youtube videos again, and yes update study notes more.  
+
+***Note:*** 
+>My work explouyment experience as a security engineer, security analyst and penetration tester in cybersecurity did help,  
+>also my years before security helped plenty,  
+>but I also learned plenty and filled in so.e great knowledge blanks.  
+
+----  
+
 ## CISSP Domain Whiteboards  
 
 * [CISSP Domain 1 Risk Management](/CISSP%20Domain%201%20Risk%20Management.png)
