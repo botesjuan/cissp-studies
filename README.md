@@ -9,7 +9,7 @@
 1. Watch youtube videos and make notes, see playlist later in section below.  
 2. Do the official study questions 4th edition and official study guide 10th edition questions.  
 3. Use chatgpt latest version paid subscription as study buddy to upload documents, images and ask questions to provide detailed explanation of answers wrong and correct.  
-4. Make memory mnemonics stories whiteboards drawings of each CISSP security domain, see mined below.  
+4. Make memory mnemonics stories whiteboards drawings of each CISSP security domain, see mine below.  
 5. Update notes more redoing questions and answers repeatedly.  
 6. Repeat all above steps and rewatching the youtube videos again, and yes update study notes more.  
 
