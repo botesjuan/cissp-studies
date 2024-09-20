@@ -1,4 +1,4 @@
-# CISSP Study  
+# CISSP 2024 Notes  
 
 ![cissp](/cissp.png)  
 
