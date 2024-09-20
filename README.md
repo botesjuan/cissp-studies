@@ -4,7 +4,7 @@
 
 ----  
 
-## CISSP Stuydy Approach  
+## CISSP Study Approach  
 
 1. Watch youtube videos and make notes, see playlist later in section below.  
 2. Do the official study questions 4th edition and official study guide 10th edition questions.  
