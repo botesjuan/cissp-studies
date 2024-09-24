@@ -2,6 +2,7 @@
 
 ![cissp](/cissp.png)  
 
+>My [CISSP 2024 Certificate ](https://drive.google.com/file/d/18jih6xTSIXO-SyGVhuyrwvNoIBWqk_e3/view?usp=sharing)  
 >[My CISSP Certification credly badge](https://www.credly.com/badges/19caf976-5458-456d-a302-b34baa23426a/public_url)
   
 ----  
