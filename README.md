@@ -242,7 +242,9 @@ Correct Answer: B) Disable interactive login for service accounts
 >Conclusion:  
 >The best practice to specifically prevent privilege escalation attacks via service accounts is to disable interactive login for those accounts.
 >This ensures that service accounts cannot be used to log in interactively, reducing the risk of them being exploited by attackers to gain elevated access.  
-  
+
+![cissp-badge.png](/cissp-badge.png)  
+
 ----  
 
 >[My other credly badges include, OSCP, CPTS, TOGAF](https://www.credly.com/users/juanbotes)  
