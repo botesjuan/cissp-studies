@@ -2,6 +2,8 @@
 
 ![cissp](/cissp.png)  
 
+>[My CISSP Certification credly badge](https://www.credly.com/badges/19caf976-5458-456d-a302-b34baa23426a/public_url)
+  
 ----  
 
 ## CISSP Study Approach  
@@ -137,6 +139,8 @@
      - “Which provides insight into risk tolerance?”
    - **Challenge:** Forces you to think about indirect vs. direct impacts of controls or assessments.
 
+----  
+
 ## AI / LLM / ChatGPT  
 
 >During my CISSP studies I used paid for subscription of ChatGPT to play the role of my study partner.
@@ -186,3 +190,59 @@ shouldn’t
 
 ![chatgpt-sample-question.PNG](/chatgpt-sample-question.PNG)  
 
+----  
+
+## CISSP Sample Question and Answer  
+
+>These are not questions from the CISSP exam, but merely examples that ChatGPT generated to aid me in preparing for the exam.
+
+>CISSP question, indicate the best or most correct answer:  
+>Juan wants to prevent privilege escalation attacks via his company’s service accounts. Which of the following security practices is best suited to this?
+
+A. Remove unnecessary rights.
+B. Disable interactive login for service accounts.
+C. Limit when accounts can log in.
+D. Use meaningless or randomized names for service accounts.
+
+>Question detailed explanation:
+
+Correct Answer: B) Disable interactive login for service accounts
+
+>Detailed Explanation:  
+>Privilege escalation attacks occur when an attacker gains elevated access to resources that are normally protected from an application or user.
+>Service accounts are special types of accounts used to run services, processes, or tasks.
+>These accounts often have higher >privileges and can be a target for attackers seeking to escalate their privileges.  
+
+>Why Option B is Correct:  
+>B) Disable interactive login for service accounts:  
+>Disabling interactive login for service accounts is a security best practice specifically aimed at preventing privilege escalation attacks.
+>Service accounts typically do not need to log in interactively (i.e., they do not need to be used to log in via a user >interface).
+>By disabling interactive logins, you reduce the risk that an attacker could use a service account to gain interactive access to the system,
+>which could then be used to escalate privileges or perform unauthorized actions.  
+
+>Explanation of Other Options:  
+>A) Remove unnecessary rights:  
+
+>While removing unnecessary rights is important for minimizing the attack surface,
+>it does not directly address the specific issue of preventing privilege escalation via service accounts.
+>However, it is still a good security practice to ensure that accounts only have the minimum privileges necessary.  
+>C) Limit when accounts can log in:  
+
+>Limiting when accounts can log in can be useful for certain scenarios,
+>such as preventing unauthorized access during off-hours,
+>but it does not directly prevent privilege escalation via service accounts,
+>particularly since service accounts often need to run services continuously.  
+>D) Use meaningless or randomized names for service accounts:
+
+>Using meaningless or randomized names for service accounts can help obscure their purpose and make it harder for attackers to identify them,
+>but it does not prevent privilege escalation.
+>It is more of a security through obscurity tactic rather than a direct preventive measure.
+
+>Conclusion:  
+>The best practice to specifically prevent privilege escalation attacks via service accounts is to disable interactive login for those accounts.
+>This ensures that service accounts cannot be used to log in interactively, reducing the risk of them being exploited by attackers to gain elevated access.  
+  
+----  
+
+>[My other credly badges include, OSCP, CPTS, TOGAF](https://www.credly.com/users/juanbotes)  
+   
