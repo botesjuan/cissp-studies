@@ -23,7 +23,7 @@
 
 ----  
 
-## CISSP Domain Whiteboards  
+# CISSP Domain Whiteboards  
 
 * [CISSP Domain 1 Risk Management](/CISSP%20Domain%201%20Risk%20Management.png)
 * [CISSP Domain 2 Asset Security](/CISSP%20Domain%202%20Asset%20Security.png)
@@ -34,13 +34,15 @@
 * [CISSP Domain 7 Operations](/CISSP%20Domain%207%20Operations.png)
 * [CISSP Domain 8 Software Development Security](/CISSP%20Domain%208%20Software%20Development%20Security.png)  
 
-## YouTube Training Playlist  
+# YouTube Training Playlist  
 
 >The following list of videos I watched several times, making my own notes directly from their content, questions and explanations for the ISC2 CISSP 2024 exam.
 
 [2024 CISSP List of Videos](https://youtube.com/playlist?list=PLsDxQTEdg_YlLfX33OjFG4yPRt2674gA2&si=bhnOFMPK8MyyZvs9)  
 
-## CISSP Questions Key Phrases  
+----  
+
+# CISSP Questions Key Phrases  
 
 >CISSP questions often involve **distractors** and complexity to challenge the understanding of the nuances in security principles.  
 >The key is to read questions carefully, focus on what is being asked, and consider all answer choices critically, 
@@ -50,7 +52,7 @@
 >These elements are designed to test your critical thinking and ability to apply concepts rather than just recall information.  
 >Here’s a list of key phrases and techniques:  
 
-### 1. **"Best," "Most Correct," or "Most Comprehensive"**  
+## 1. **"Best," "Most Correct," or "Most Comprehensive"**  
    - **Purpose:** Forces you to prioritize or evaluate multiple correct answers.
    - **Examples:** 
      - “Select the best answer.”
@@ -58,14 +60,14 @@
      - “Which of the following best describes...”
    - **Challenge:** Requires you to assess which option most fully or accurately represents the concept being tested.
 
-### 2. **"Likely" or "Typically"**  
+## 2. **"Likely" or "Typically"**  
    - **Purpose:** Introduces an element of probability, making you consider what generally applies rather than what is always true.
    - **Examples:** 
      - “Which of the following is most likely to...”
      - “Typically used in...”
    - **Challenge:** These terms can make answers seem less definitive and require deeper understanding of typical use cases or behaviors.
 
-### 3. **"Not," "Except," or "But"**  
+## 3. **"Not," "Except," or "But"**  
    - **Purpose:** Tests your attention to detail by asking for exceptions.
    - **Examples:** 
      - “Which of the following is NOT likely to...”
@@ -73,68 +75,68 @@
      - “Which technology uses this standard BUT is not maintained by...”
    - **Challenge:** These questions often trip up those who skim and assume they’re looking for something that matches rather than something that doesn’t.
 
-### 4. **"Primarily," "Mainly," or "Primary"**  
+## 4. **"Primarily," "Mainly," or "Primary"**  
    - **Purpose:** Narrows focus to the most important aspect or main responsibility.
    - **Examples:** 
      - “What is the primary goal of...”
      - “Mainly responsible for...”
    - **Challenge:** These terms require you to identify the most central role or function, which may be nuanced.
 
-### 5. **"Ensure," "Guarantee," or "Prevent"**  
+## 5. **"Ensure," "Guarantee," or "Prevent"**  
    - **Purpose:** Tests your understanding of absolute outcomes in security controls.
    - **Examples:**
      - “What can be implemented to ensure...”
      - “Which control prevents...”
    - **Challenge:** You need to choose the option that provides the most definitive or strongest solution, often ruling out softer or less absolute answers.
 
-### 6. **"Which," "What," or "Where"**  
+## 6. **"Which," "What," or "Where"**  
    - **Purpose:** These basic interrogatives introduce a scenario that requires specific knowledge.
    - **Examples:**
      - “Which of the following...”
      - “What is most appropriate...”
    - **Challenge:** They often lead into complex scenarios where multiple factors must be considered, forcing you to synthesize knowledge.
 
-### 7. **"Simultaneously" or "At the Same Time"**  
+## 7. **"Simultaneously" or "At the Same Time"**  
    - **Purpose:** Tests understanding of systems or processes that operate under concurrent conditions.
    - **Examples:**
      - “Simultaneously handles information...”
    - **Challenge:** Requires recognition of environments or technologies that support or enforce concurrent conditions.
 
-### 8. **"Evaluates," "Assesses," or "Monitors"**  
+## 8. **"Evaluates," "Assesses," or "Monitors"**  
    - **Purpose:** Focuses on processes rather than results, testing your knowledge of methodologies.
    - **Examples:**
      - “Which process evaluates the effectiveness...”
      - “What assesses the risk...”
    - **Challenge:** You must distinguish between different methods or processes that have similar goals but are applied differently.
 
-### 9. **"Match" or "Align"**  
+## 9. **"Match" or "Align"**  
    - **Purpose:** Tests your understanding of aligning strategies with specific systems or business needs.
    - **Examples:**
      - “Which activity best matches this task?”
      - “What best aligns with the business goals?”
    - **Challenge:** Requires synthesis of information about both strategic goals and specific systems or controls.
 
-### 10. **Scenarios Describing Ambiguous Situations**  
+## 10. **Scenarios Describing Ambiguous Situations**  
    - **Purpose:** Presents a scenario where several answers may seem plausible, requiring deep analysis to identify the most correct answer.
    - **Examples:** 
      - “James is working with a system...”
      - “Ron is investigating a security incident...”
    - **Challenge:** The scenario is often complex, with subtle clues leading to the best answer. This tests both knowledge and application.
 
-### 11. **"Is Responsible for," "Should Ensure," or "Is Required To"**  
+## 11. **"Is Responsible for," "Should Ensure," or "Is Required To"**  
    - **Purpose:** Focuses on roles and responsibilities within security frameworks.
    - **Examples:**
      - “Which role is primarily responsible for...”
      - “Who should ensure that...”
    - **Challenge:** Requires knowledge of specific roles (e.g., security administrator vs. system administrator) and their distinct responsibilities.
 
-### 12. **Words Suggesting Partial Truths (e.g., "May," "Can," "Might")**  
+## 12. **Words Suggesting Partial Truths (e.g., "May," "Can," "Might")**  
    - **Purpose:** Introduces answers that are technically correct but not comprehensive.
    - **Examples:**
      - “This process may result in...”
    - **Challenge:** These options might be tempting because they’re correct, but they’re not the best or most complete answers.
 
-### 13. **"Provides Insight Into"**  
+## 13. **"Provides Insight Into"**  
    - **Purpose:** Tests your ability to differentiate between direct control effects and broader monitoring or insight functions.
    - **Examples:**
      - “Which provides insight into risk tolerance?”
@@ -142,7 +144,7 @@
 
 ----  
 
-## AI / LLM / ChatGPT  
+# AI / LLM / ChatGPT  
 
 >During my CISSP studies I used paid for subscription of ChatGPT to play the role of my study partner.
 >I provided the following type of prompts to the model to aid in my studies and test my knowledge and skills:
@@ -193,21 +195,23 @@ shouldn’t
 
 ----  
 
-## CISSP Sample Question and Answer  
+# CISSP Sample Question and Answer  
 
 >These are not questions from the CISSP exam, but merely examples that ChatGPT generated to aid me in preparing for the exam.
 
+## Service Accounts Question  
+
 >CISSP question, indicate the best or most correct answer:  
->Juan wants to prevent privilege escalation attacks via his company’s service accounts. Which of the following security practices is best suited to this?
+>Juan wants to prevent privilege escalation attacks via his company’s service accounts. Which of the following security practices is best suited to this?  
 
 A. Remove unnecessary rights.
 B. Disable interactive login for service accounts.
 C. Limit when accounts can log in.
-D. Use meaningless or randomized names for service accounts.
+D. Use meaningless or randomized names for service accounts.  
 
->Question detailed explanation:
+>Question detailed explanation:  
 
-Correct Answer: B) Disable interactive login for service accounts
+Correct Answer: B) Disable interactive login for service accounts  
 
 >Detailed Explanation:  
 >Privilege escalation attacks occur when an attacker gains elevated access to resources that are normally protected from an application or user.
@@ -242,6 +246,44 @@ Correct Answer: B) Disable interactive login for service accounts
 >Conclusion:  
 >The best practice to specifically prevent privilege escalation attacks via service accounts is to disable interactive login for those accounts.
 >This ensures that service accounts cannot be used to log in interactively, reducing the risk of them being exploited by attackers to gain elevated access.  
+
+## OAuth 2 Question  
+
+>What technology uses request for comments RFC 6749 as a framework but is not maintained by the internet engineering task force (IETF)?
+
+>CISSP question, image attached is another CISSP question.
+>Open ID Connect is provided as the correct answer.
+>Do indicate most correct answer that addresses the most comprehensive solution and provide a detailed explanation:  
+
+>The question asks which technology uses RFC 6749 as a framework but is not maintained by the Internet Engineering Task Force (IETF).  
+
+>Breakdown of the Options:  
+>OpenID (A):  
+>Framework: OpenID is a decentralized authentication protocol but does not use RFC 6749 as its basis.  
+>Maintenance: Not directly related to RFC 6749.  
+
+>OAuth 2.0 (B):  
+>Framework: OAuth 2.0 is indeed specified by RFC 6749.
+>Maintenance: OAuth 2.0 is maintained by the IETF.  
+
+>OpenID Connect (C):  
+>Framework: OpenID Connect is an identity layer built on top of OAuth 2.0, which uses RFC 6749 as its foundation.  
+>Maintenance: OpenID Connect is not maintained by the IETF but by the OpenID Foundation. This aligns with the requirement in the question.  
+
+>OAuth 1.0 (D):  
+>Framework: OAuth 1.0 is an earlier version of OAuth, not directly linked to RFC 6749.  
+>Maintenance: It is also maintained by the IETF but is an older and less commonly used standard compared to OAuth 2.0.  
+
+>Conclusion:  
+>The correct and most comprehensive answer is C. OpenID Connect.  
+
+>Reasoning:  
+>OpenID Connect builds on OAuth 2.0, which is defined by RFC 6749,
+>but it is maintained by the OpenID Foundation, not the IETF.
+>This makes OpenID Connect the correct choice,
+>as it fulfills both conditions outlined in the question.  
+
+----  
 
 ![cissp-badge.png](/cissp-badge.png)  
 
