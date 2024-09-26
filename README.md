@@ -234,8 +234,57 @@ Intangible assets refer to non-physical assets that are valuable to an organizat
 - **A. Theft of physical property**: This relates to tangible assets like hardware and facilities, which are outside the scope of intangible assets.
 - **B. Unauthorized access to proprietary software**: While important, this only covers a specific area of intellectual property and does not address broader intangible assets like brand reputation.
 - **D. Natural disasters impacting physical infrastructure**: This focuses on risks to physical assets, which do not apply to intangible asset risk management.  
-  
-## Service Accounts Question  
+
+## CISSP Question: Immutable Infrastructure, Microservices, and Log Integrity  
+
+>Your organization is implementing a microservices-based architecture and wants to ensure the infrastructure is immutable while maintaining the integrity of system and application logs.
+>Which of the following best aligns with the principles of immutable infrastructure and supports the integrity of logs in this environment?  
+
+**A. Regularly update and patch the operating system of microservices to ensure security.**  
+**B. Use containers to host microservices and rotate new images instead of modifying existing ones.**  
+**C. Allow administrators to modify log files to correct erroneous data and maintain accuracy.**  
+**D. Keep all logs locally on the microservices host to avoid latency in log aggregation.**  
+
+---  
+
+### **Correct Answer: B. Use containers to host microservices and rotate new images instead of modifying existing ones.**  
+
+### **Explanation:**  
+
+>In a microservices architecture, **immutable infrastructure** refers to the practice of never modifying a running system.
+>Instead of updating or patching existing servers or services, a new version of the service or server is built, deployed, and the old version is destroyed.
+>This ensures consistency and predictability, making it easier to manage and scale infrastructure.  
+
+>Additionally, **log integrity** is critical to ensure security, auditability, and accountability.
+>Immutable systems ensure that logs remain unchanged once recorded, preventing malicious actors or administrators from altering the log data.  
+
+#### Key Principles in the Correct Answer:  
+
+- **Containerization**: Using containers to host microservices aligns with the idea of immutability. Containers are deployed as new images whenever updates are needed. Once deployed, these containers are not modified; instead, they are replaced with new versions.  
+- **Log Integrity**: In an immutable infrastructure, logs must remain **unchanged** to maintain **integrity**. This often involves ensuring logs are written to a centralized logging system, ensuring they cannot be tampered with or deleted after being recorded.  
+
+>**Option B** is the best choice because it reflects immutable infrastructure practices by using containers that are replaced with new images rather than being updated or modified.
+>This also indirectly supports log integrity by ensuring that logs from old container instances are not tampered with after they are written.  
+
+---  
+
+### Why Other Options Are Incorrect:  
+
+- **A. Regularly update and patch the operating system of microservices to ensure security.**  
+  While patching is important, this approach does not align with the principle of immutability. The idea behind immutable infrastructure is that once a system is deployed, it should not be changed—any updates should result in the deployment of a new instance rather than modification of an existing one.  
+
+- **C. Allow administrators to modify log files to correct erroneous data and maintain accuracy.**  
+  This directly violates the principle of **log immutability**. Logs should never be modified after they are written, as this could introduce vulnerabilities and compromise auditability and integrity.  
+
+- **D. Keep all logs locally on the microservices host to avoid latency in log aggregation.**  
+  This increases the risk of log tampering and reduces visibility into logs, as they are not centralized. For proper log integrity, logs should be forwarded to a centralized log management system to ensure they are protected, aggregated, and cannot be altered locally.
+
+### Conclusion:  
+>Immutable infrastructure, combined with centralized and immutable log management,
+>is the most comprehensive solution for ensuring the reliability and integrity of microservices-based architectures.
+>**Option B** correctly reflects these best security practices.  
+
+##  CISSP Question: Service Accounts  
   
 >CISSP question, indicate the best or most correct answer:  
 >Juan wants to prevent privilege escalation attacks via his company’s service accounts.  
@@ -284,7 +333,7 @@ Correct Answer: B) Disable interactive login for service accounts
 >The best practice to specifically prevent privilege escalation attacks via service accounts is to disable interactive login for those accounts.
 >This ensures that service accounts cannot be used to log in interactively, reducing the risk of them being exploited by attackers to gain elevated access.  
 
-## OAuth 2 Question  
+## CISSP Question: OAuth 2  
 
 >What technology uses request for comments RFC 6749 as a framework but is not maintained by the internet engineering task force (IETF)?
 
