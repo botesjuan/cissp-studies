@@ -17,7 +17,7 @@
 6. Repeat all above steps and rewatching the youtube videos again, and yes update study notes more.  
 
 ***Note:*** 
->My work exployment roles & experience as a security engineer, security analyst and penetration tester in cybersecurity helped,  
+>My work employment roles & experience as a security engineer, security analyst and penetration tester in cybersecurity helped,  
 >also my years before security provided my foundation skills,  
 >but studying for the 2024 CISSP I learned a tremendous volume of data that filled in knowledge gaps.  
 
