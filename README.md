@@ -199,10 +199,47 @@ shouldn’t
 
 >These are not questions from the CISSP exam, but merely examples that ChatGPT generated to aid me in preparing for the exam.
 
-## Service Accounts Question  
+## CISSP Question: Intangible Assets and Risks  
 
+>A company is performing an enterprise-wide risk assessment and must consider the impact of both tangible and intangible assets.
+>Which of the following best describes the primary risks associated with intangible assets?
+
+**A. Theft of physical property**  
+**B. Unauthorized access to proprietary software**  
+**C. Damage to brand reputation and loss of intellectual property**  
+**D. Natural disasters impacting physical infrastructure**
+
+---  
+
+### **Correct Answer: C. Damage to brand reputation and loss of intellectual property**  
+
+### **Explanation:**  
+
+Intangible assets refer to non-physical assets that are valuable to an organization, such as intellectual property (IP), brand reputation, customer trust, and proprietary data. These assets, while not physical, are often some of the most critical to an organization's success and long-term sustainability. 
+
+- **Brand Reputation**: Damage to a company's reputation can have significant long-term impacts, potentially reducing customer loyalty, market share, and revenue.
+- **Loss of Intellectual Property (IP)**: Theft or unauthorized use of (e.g., patents, trade secrets) can severely damage a company's competitive advantage.
+
+**Key Risk Areas for Intangible Assets**:
+- **Cyberattacks**: Data breaches can lead to IP theft, and public exposure of such incidents can harm reputation.
+- **Regulatory Non-compliance**: Failing to comply with regulations (e.g., GDPR) can result in legal penalties and reputational damage.
+- **Supply Chain Attacks**: Third-party vendors that mishandle data could compromise the integrity of an organization’s proprietary information.
+
+>The most comprehensive approach to protecting intangible assets involves strategies such as IP protection,
+>encryption, incident response planning, and maintaining strong regulatory compliance. **Option C** captures both major risk factors—brand reputation and intellectual property—making it the most correct and comprehensive answer.
+
+---
+
+### Why Other Options Are Incorrect:
+- **A. Theft of physical property**: This relates to tangible assets like hardware and facilities, which are outside the scope of intangible assets.
+- **B. Unauthorized access to proprietary software**: While important, this only covers a specific area of intellectual property and does not address broader intangible assets like brand reputation.
+- **D. Natural disasters impacting physical infrastructure**: This focuses on risks to physical assets, which do not apply to intangible asset risk management.  
+  
+## Service Accounts Question  
+  
 >CISSP question, indicate the best or most correct answer:  
->Juan wants to prevent privilege escalation attacks via his company’s service accounts. Which of the following security practices is best suited to this?  
+>Juan wants to prevent privilege escalation attacks via his company’s service accounts.  
+>Which of the following security practices is best suited to this?  
 
 A. Remove unnecessary rights.
 B. Disable interactive login for service accounts.
