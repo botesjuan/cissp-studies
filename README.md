@@ -17,7 +17,7 @@
 6. Repeat all above steps and rewatching the youtube videos again, and yes update study notes more.  
 
 ***Note:*** 
->My work exployment experience as a security engineer, security analyst and penetration tester in cybersecurity did help,  
+>My work exployment roles & experience as a security engineer, security analyst and penetration tester in cybersecurity helped,  
 >also my years before security provided my foundation skills,  
 >but studying for the 2024 CISSP I learned a tremendous volume of data that filled in knowledge gaps.  
 
@@ -147,6 +147,7 @@
 # AI / LLM / ChatGPT  
 
 >During my CISSP studies I used paid for subscription of ChatGPT to play the role of my study partner.
+>ChatGPT was my soundboard and playback audio assistant to enhance my learning retention of knowledge.
 >I provided the following type of prompts to the model to aid in my studies and test my knowledge and skills:
 
 ```text
