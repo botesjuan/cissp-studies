@@ -372,6 +372,12 @@ Correct Answer: B) Disable interactive login for service accounts
 
 ----  
 
+## Summary Study Notes  
+
+[CISSP Study Notes 2024 pdf](https://github.com/botesjuan/cissp-studies/blob/main/CISSP%20Study%20Notes%202024.pdf)  
+
+----  
+
 ![cissp-badge.png](/cissp-badge.png)  
 
 ----  
