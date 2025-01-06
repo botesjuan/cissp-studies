@@ -386,3 +386,7 @@ Correct Answer: B) Disable interactive login for service accounts
 
 >[My other credly badges include, OSCP, CPTS, TOGAF](https://www.credly.com/users/juanbotes)  
    
+----  
+
+>[Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
+  
