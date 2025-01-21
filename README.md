@@ -2,8 +2,8 @@
 
 ![cissp](/cissp.png)  
 
->My 2024 ISC2, CISSP took 8 months of study while full time working as Penetration Tester.
->Certified Information Systems Security Professional reference resume:
+>My 2024 ISC2, CISSP took 8 months of study while full time working as Penetration Tester.  
+>Certified Information Systems Security Professional reference resume:  
   
 * [CISSP Certificate](https://drive.google.com/file/d/18jih6xTSIXO-SyGVhuyrwvNoIBWqk_e3/view?usp=sharing)  
 * [My CISSP Certification credly badge](https://www.credly.com/badges/19caf976-5458-456d-a302-b34baa23426a/public_url)  
