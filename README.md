@@ -10,6 +10,10 @@
   
 ----  
 
+>This Video from [Pete, CISSP Exam Prep 2025 - 10 Key Topics & Strategies in 2025](https://youtu.be/aLIFzIBNM_8?si=hpDCi2NMmO0s_BnT)
+
+----  
+
 ## CISSP Study Approach  
 
 1. Watch youtube videos and make notes, see playlist later in section below.  
